@@ -1,5 +1,5 @@
 # dev-environment-lab
-![my first lab completed](https://imgur.com/a/ZUWC4Us)
+![my first lab completed](https://i.imgur.com/DCzRAF0.png)
 
 ## OS
 
