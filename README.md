@@ -1,5 +1,5 @@
 # dev-environment-lab
-![my first lab completed](file:///home/jamie/Pictures/Screenshots/Screenshot%20from%202022-05-23%2020-23-14.png)
+![my first lab completed](https://imgur.com/a/ZUWC4Us)
 
 ## OS
 
